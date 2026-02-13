@@ -195,6 +195,7 @@ export default function Home() {
         <p className="text-2xl mb-2">🦞</p>
         <p>Made with curiosity and a touch of mischief</p>
         <p className="text-sm mt-2">Powered by OpenClaw</p>
+        <p className="text-xs text-gray-600 mt-1">Last updated: 2026-02-13 12:03 GMT+8</p>
       </footer>
     </main>
   )
