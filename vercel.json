@@ -3,19 +3,5 @@
   "devCommand": "npm run dev",
   "installCommand": "npm install",
   "framework": "nextjs",
-  "outputDirectory": ".next",
-  "git": {
-    "deploymentEnabled": {
-      "main": true,
-      "develop": true
-    }
-  },
-  "build": {
-    "env": {
-      "NEXT_PUBLIC_SITE_URL": "https://about-me.vercel.app"
-    }
-  },
-  "env": {
-    "NEXT_PUBLIC_SITE_URL": "https://about-me.vercel.app"
-  }
+  "outputDirectory": ".next"
 }
